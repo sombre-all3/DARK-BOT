@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['22372268134']
-global.premium = ['22372268134']
-global.ownernomer = '22372268134'
-global.ownername = '𝙈𝘼𝘿𝘼𝙍𝘼 𝙐𝘾𝙃𝙄𝙒𝘼'
-global.botname = '𝙈𝘼𝘿𝘼𝙍𝘼'
+global.owner = ['22556933397']
+global.premium = ['22556933397']
+global.ownernomer = '22504160076'
+global.ownername = '🥀⃞⃕𝙎𝙊𝙈𝘽𝙍𝙀༆𝘿𝘼𝙀𝙈𝙊𝙉⟫❦⃞᭄*'
+global.botname = 'GOJO SATORU'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '𝙈𝘼𝘿𝘼𝙍𝘼 ♣ 𝙐𝘾𝙃𝙄𝙒𝘼'
+global.packname = '🥀⃞⃕𝙎𝙊𝙈𝘽𝙍𝙀༆𝘿𝘼𝙀𝙈𝙊𝙉⟫❦⃞᭄*'
 global.author = ''
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
